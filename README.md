@@ -1,16 +1,24 @@
-## Hi there 👋
+# Abrar Ali – Web Developer & SEO Specialist from Jammu & Kashmir, India
 
-<!--
-**abrarrtallks-pixel/abrarrtallks-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 I’m **Abrar Ali**, founder of **Abrarr Tallks**.  
+I help businesses grow with fast, SEO-optimized websites, tools & automation.
 
-Here are some ideas to get you started:
+## 🚀 Services
+- Custom Website Design (HTML, CSS, JavaScript)
+- SEO Optimization & Google Ranking
+- Tool Websites (Converters, Image Tools)
+- Automation & Telegram Bots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Rebrar – Tools & Web Apps  
+- ToolVera – Online Converters  
+- Client Websites (Tour & Travel, Business Sites)
+
+## 📞 Contact Me
+📧 Email: contact.abrarrtallks@gmail.com  
+📱 WhatsApp: https://wa.me/917051078832  
+📲 +91 6006643768
+🌐 Website: https://abrartallks-portfolio.co.in  
+
+## 🔎 Keywords
+Abrar Ali web developer, Jammu & Kashmir web developer, SEO specialist India, freelance web developer Kashmir
